@@ -1,0 +1,11 @@
+/* Styling a box containing the buttons */
+
+.buttonBox {
+  width: 100%;
+  /* Setting the amount of space the buttons take up to the same space that the calculator total design is - 110px */
+  height: calc(100% - 110px);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-gap: 8px;
+}
