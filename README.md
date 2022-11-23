@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Information and Licensing and Copyright
+This code was heavily based off of the tutorial website under the link https://www.sitepoint.com/react-tutorial-build-calculator-app/
+From this tutorial, I adjusted the styling, some components, and added documentation, but under no circumstances was this code 
+wholey written by me
+
 ## Available Scripts
 
 In the project directory, you can run:
